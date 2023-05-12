@@ -300,3 +300,7 @@
     </main>
     <!-- End #main -->
 @endsection
+
+@php
+    $activeMenu = 'events';
+@endphp

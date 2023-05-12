@@ -129,8 +129,8 @@
                                                 Full Name
                                             </label>
                                             <div class="col-md-8 col-lg-9">
-                                                <input name="fullName" type="text" class="form-control"
-                                                    id="fullName" value="Angatia Benson" />
+                                                <input name="fullName" type="text" class="form-control" id="fullName"
+                                                    value="Angatia Benson" />
                                             </div>
                                         </div>
 
@@ -243,3 +243,7 @@
     </main>
     <!-- End #main -->
 @endsection
+
+@php
+    $activeMenu = 'profile';
+@endphp

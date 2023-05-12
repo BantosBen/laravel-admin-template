@@ -217,3 +217,7 @@
     </main>
     <!-- End #main -->
 @endsection
+
+@php
+    $activeMenu = 'posts';
+@endphp

@@ -377,3 +377,8 @@
     </main>
     <!-- End #main -->
 @endsection
+
+
+@php
+    $activeMenu = 'dashboard';
+@endphp

@@ -454,3 +454,8 @@
     </main>
     <!-- End #main -->
 @endsection
+
+
+@php
+    $activeMenu = 'member';
+@endphp

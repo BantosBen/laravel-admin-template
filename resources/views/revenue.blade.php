@@ -226,3 +226,7 @@
     </main>
     <!-- End #main -->
 @endsection
+
+@php
+    $activeMenu = 'revenue';
+@endphp
